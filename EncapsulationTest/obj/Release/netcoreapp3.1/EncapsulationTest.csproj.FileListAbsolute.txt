@@ -1,0 +1,12 @@
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/bin/Release/netcoreapp3.1/EncapsulationTest
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/bin/Release/netcoreapp3.1/EncapsulationTest.deps.json
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/bin/Release/netcoreapp3.1/EncapsulationTest.runtimeconfig.json
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/bin/Release/netcoreapp3.1/EncapsulationTest.runtimeconfig.dev.json
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/bin/Release/netcoreapp3.1/EncapsulationTest.dll
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/bin/Release/netcoreapp3.1/EncapsulationTest.pdb
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/bin/Release/netcoreapp3.1/Npgsql.dll
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/obj/Release/netcoreapp3.1/EncapsulationTest.AssemblyInfoInputs.cache
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/obj/Release/netcoreapp3.1/EncapsulationTest.AssemblyInfo.cs
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/obj/Release/netcoreapp3.1/EncapsulationTest.csproj.CopyComplete
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/obj/Release/netcoreapp3.1/EncapsulationTest.dll
+/home/elvis/personal/projects/C-sharpProj/EncapusaltionTest/EncapsulationTest/EncapsulationTest/obj/Release/netcoreapp3.1/EncapsulationTest.pdb

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{E5189746-6E80-4D04-A2A9-34BAA9C5B5FC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EncapsulationTest/controllers/StudentController.cs">
+    <Files>
+      <File FileName="EncapsulationTest/Program.cs" Line="44" Column="34" />
+      <File FileName="EncapsulationTest/utils/Connector.cs" Line="16" Column="10" />
+      <File FileName="EncapsulationTest/models/Student.cs" Line="12" Column="9" />
+      <File FileName="EncapsulationTest/CustomException/StudentNotFoundException.cs" Line="10" Column="6" />
+      <File FileName="EncapsulationTest/controllers/StudentController.cs" Line="16" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EncapsulationTest" expanded="True">
+            <Node name="EncapsulationTest" expanded="True">
+              <Node name="controllers" expanded="True">
+                <Node name="StudentController.cs" selected="True" />
+              </Node>
+              <Node name="CustomException" expanded="True" />
+              <Node name="models" expanded="True" />
+              <Node name="utils" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EncapsulationTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
